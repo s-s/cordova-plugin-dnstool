@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-dnstool",
+  "version": "0.0.1",
+  "description": "Cordova NEVPNManager API",
+  "cordova": {
+    "id": "cordova-plugin-dnstool",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "networkextension",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Sergey Smirnov",
+  "license": "MIT"
+}
